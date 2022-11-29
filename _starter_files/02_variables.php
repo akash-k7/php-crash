@@ -33,6 +33,9 @@ echo "name is ${name} and age is ${age} years old";
 
 // constants
 define('HOST','localhost');
+echo HOST;
+
+
 define('DB_NAME', 'newdb');
 
 echo HOST;
