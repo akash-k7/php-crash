@@ -6,6 +6,7 @@
 echo 'Hello';
 echo 123;
 echo '<h1>Hello</h1>';
+echo '<p>Testing the echo output</p>'
 
 // print - Similar to echo, but a bit slower
 print 'Hello';
