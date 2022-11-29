@@ -27,3 +27,5 @@ $name='Akash';
 $age=21;
 
 echo 'name is ' .$name .' and age is ' .$age;
+
+echo "name is ${name} and age is ${age} years old";
