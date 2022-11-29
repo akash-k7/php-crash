@@ -29,3 +29,11 @@ $age=21;
 echo 'name is ' .$name .' and age is ' .$age;
 
 echo "name is ${name} and age is ${age} years old";
+
+
+// constants
+define('HOST','localhost');
+define('DB_NAME', 'newdb');
+
+echo HOST;
+
